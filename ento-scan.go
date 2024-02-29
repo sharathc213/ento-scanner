@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"github.com/sharathc213/ento-scanner/fileutils"
+	"./fileutils"
 )
 
 const (
