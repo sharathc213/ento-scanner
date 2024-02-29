@@ -66,7 +66,7 @@ func main() {
 
 	if version {
 		fmt.Printf("entropyscan Version %s\n", constVersion)
-		//fmt.Printf("Copyright (c) 2019-2022 Sandlfy Security - www.sandflysecurity.com\n\n")
+
 		os.Exit(0)
 	}
 
